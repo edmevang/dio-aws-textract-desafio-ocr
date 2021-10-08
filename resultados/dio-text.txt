@@ -1,0 +1,2 @@
+Esta live é um exemplo do uso de ferramentas de IA para reconhecimento de caracteres em
+imagens

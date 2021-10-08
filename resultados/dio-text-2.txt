@@ -1,0 +1,3 @@
+Olá pessoal, sejam bem vindos a mais um live coding sobre machine learning na AWS. É incrível a
+capacidade da IA interpretar formas em imagens e transformar em letras, ela só não consegui ainda dizer
+quando o Palmeiras vai ter um mundial.
